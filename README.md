@@ -31,7 +31,7 @@
 - 🛠 &nbsp;Building: **FlowAnchor** (VS Code extension) · **Toolio** (browser app)
 - 📚 &nbsp;BS Data Science @ IIT Madras · CGPA 8.9/10 · Diploma in Programming in progress
 - ☁️ &nbsp;Stack: Google Cloud · Firebase · Vertex AI · Python · Next.js
-- 📬 &nbsp;[25f200444@ds.study.iitm.ac.in](mailto:25f200444@ds.study.iitm.ac.in) · [linkedin.com/in/parthinverse](https://linkedin.com/in/parthinverse)
+- 📬 &nbsp;[management.parth@gmail.com](mailto:management.parth@gmail.com) · [linkedin.com/in/parthinverse](https://linkedin.com/in/parthinverse) · [himalayas.app/@iparthshukla](https://himalayas.app/@iparthshukla)
 
 <br/>
 
@@ -73,7 +73,8 @@ No server upload, no storage. Files never leave the device.
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthinverse)&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:25f200444@ds.study.iitm.ac.in)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:management.parth@gmail.com)&nbsp;
+[![Himalayas](https://img.shields.io/badge/Himalayas-000000?style=flat-square&logo=mountain&logoColor=white)](https://himalayas.app/@iparthshukla)
 
 <br/>
 
