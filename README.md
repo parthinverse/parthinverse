@@ -51,7 +51,7 @@ Preserves and restores developer context when AI coding sessions reset. Built an
 
 Privacy-first image conversion running entirely in the browser. Client-side processing, no server upload or storage.
 
-[GitHub](YOUR_TOOLIO_REPOSITORY_URL) &nbsp;·&nbsp; [Live](YOUR_TOOLIO_LIVE_URL)
+[Live](https://turnfile.online)
 
 </td>
 </tr>
