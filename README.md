@@ -4,7 +4,7 @@
 
 <p>Data Science @ IIT Madras &nbsp;·&nbsp; Builder &nbsp;·&nbsp; Cloud &nbsp;·&nbsp; Applied AI &nbsp;·&nbsp; Open Source</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1200&color=7D8590&center=true&vCenter=true&width=500&height=24&lines=Building+FlowAnchor+%26+Toolio;Google+Cloud+%2B+Applied+AI;Open+Source+Contributor;GDG+Lucknow+Hackathon+Winner" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1200&color=7D8590&center=true&vCenter=true&width=500&height=24&lines=Built+FlowAnchor+%26+Toolio;Google+Cloud+%2B+Applied+AI;Open+Source+Contributor;GDG+Lucknow+Hackathon+Winner" alt="" />
 
 <br/>
 
