@@ -68,8 +68,8 @@ Privacy-first image conversion running entirely in the browser. Client-side proc
 ### Highlights
 
 🏆 GDG Lucknow Hackathon · Winner (solo)  
-⭐ FlowAnchor · Microsoft-backed extension
-🔭 TurnFile · Conversion tool
+⭐ FlowAnchor · Microsoft-backed extension  
+🔭 TurnFile · Conversion tool  
 🎓 IIT Madras · BS Data Science and Applications, CGPA 8.9/10  
 
 <br/>
