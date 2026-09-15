@@ -27,7 +27,7 @@ Data Science undergraduate at IIT Madras, building developer tools and exploring
 
 - 🎓 &nbsp;BS in Data Science and Applications @ IIT Madras · CGPA 8.9/10
 - ⚓ &nbsp;Built and shipped FlowAnchor, an open-source VS Code extension
-- 🛠 &nbsp;Built Toolio, a privacy-first browser image converter
+- 🛠 &nbsp;Built TurnFile, a privacy-first browser image converter
 - 🏆 &nbsp;Solo winner at GDG Lucknow Hackathon
 
 <br/>
@@ -47,7 +47,7 @@ Preserves and restores developer context when AI coding sessions reset. Built an
 </td>
 <td width="50%" valign="top">
 
-**🛠 Toolio** &nbsp;·&nbsp; Browser App · Next.js
+**🛠 TurnFile** &nbsp;·&nbsp; Browser App · Next.js
 
 Privacy-first image conversion running entirely in the browser. Client-side processing, no server upload or storage.
 
@@ -68,7 +68,8 @@ Privacy-first image conversion running entirely in the browser. Client-side proc
 ### Highlights
 
 🏆 GDG Lucknow Hackathon · Winner (solo)  
-⭐ FlowAnchor · Microsoft-backed extension  
+⭐ FlowAnchor · Microsoft-backed extension
+🔭 TurnFile · Conversion tool
 🎓 IIT Madras · BS Data Science and Applications, CGPA 8.9/10  
 
 <br/>
