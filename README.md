@@ -42,7 +42,7 @@ Data Science undergraduate at IIT Madras, building developer tools and exploring
 
 Preserves and restores developer context when AI coding sessions reset. Built and shipped independently. Open source. Published on VS Code Marketplace. Recognized as a Microsoft-backed extension.
 
-[GitHub](YOUR_FLOWANCHOR_REPOSITORY_URL) &nbsp;·&nbsp; [Marketplace](YOUR_FLOWANCHOR_MARKETPLACE_URL)
+[GitHub](https://github.com/parthinverse/FlowAnchor) &nbsp;·&nbsp; [Marketplace](https://marketplace.visualstudio.com/items?itemName=FlowAnchorLabs.flowanchor)
 
 </td>
 <td width="50%" valign="top">
