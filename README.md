@@ -13,10 +13,10 @@
 <!-- No PAT required — uses GITHUB_TOKEN with contents:write   -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/parthinverse/parthinverse/output/github-contribution-grid-snake-dark.svg" />
+    srcset="https://raw.githubusercontent.com/parthinverse/parthinverse/output/github-contribution-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/parthinverse/parthinverse/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/parthinverse/parthinverse/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    srcset="https://raw.githubusercontent.com/parthinverse/parthinverse/output/github-contribution-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/parthinverse/parthinverse/output/github-contribution-snake-dark.svg" width="85%" />
 </picture>
 
 </div>
