@@ -59,7 +59,7 @@ Privacy-first image conversion running entirely in the browser. Client-side proc
 
 <br/>
 
-### Stack
+### Stacks
 
 `Python` &nbsp;`TypeScript` &nbsp;`Google Cloud` &nbsp;`Firebase` &nbsp;`Vertex AI` &nbsp;`Gemini CLI` &nbsp;`Next.js` &nbsp;`Cloudflare Workers` &nbsp;`Git` &nbsp;`VS Code Extension API`
 
