@@ -32,7 +32,7 @@ Data Science undergraduate at IIT Madras, building developer tools and exploring
 
 <br/>
 
-### Projects
+### Project
 
 <table>
 <tr>
